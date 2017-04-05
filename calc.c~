@@ -25,7 +25,6 @@ int main(){
 				break;
 				case '*':
 				result = mul(operand1, operand2);
-				break;
 				case '/':
 				result = div(operand1, operand2);
 				break;
